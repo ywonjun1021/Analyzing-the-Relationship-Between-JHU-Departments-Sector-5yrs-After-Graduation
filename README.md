@@ -9,7 +9,7 @@ Then, I used the solver to find the sum of minimum squared distance.
 ![alt](https://github.com/ywonjun1021/Analyzing-the-Relationship-Between-JHU-Departments-Sector-5yrs-After-Graduation/blob/master/Solver.png)
 
 Then, I found three departments that were the center of the clusters.
-![alt](https://github.com/ywonjun1021/Analyzing-the-Relationship-Between-JHU-Departments-Sector-5yrs-After-Graduation/blob/master/3%20Departments%20.png)
+![alt](https://github.com/ywonjun1021/Analyzing-the-Relationship-Between-JHU-Departments-Sector-5yrs-After-Graduation/blob/master/3%20Departments.png)
 
 
 ## Cluster Id and Summary of Findings
