@@ -6,6 +6,8 @@ Using [Tabula](https://tabula.technology/), I moved the pdf version of the data 
 Using cluster analysis, I calculated the z-score for "% for-profit," "% government," "% non-profit," and "% insufficient info." In addition, I calculated the distance squared and min distance squared for all sectors.
 Then, I used the solver to find sum of minimum squared distance.
 
+![alt](https://github.com/ywonjun1021/Analyzing-the-Relationship-Between-JHU-Departments-Sector-5yrs-After-Graduation/blob/master/Solver.png)
+
 
 
 
