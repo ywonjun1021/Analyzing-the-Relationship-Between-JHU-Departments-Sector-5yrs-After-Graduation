@@ -1,3 +1,8 @@
 First converted the pdf data to Excel by using Tabula.
 Find z scores by using formula =standardize for all %forprofit, %governemnt, %nonprofit, and %insufficient data
 
+Then calculate distance squared by using =sumxmy2 for each each clusters
+Then find min distance squared for all sectors by using =min
+Then, I used the solver to find the sum of minimum squared distance.
+
+Finally, get the cluster ids by using the formula =match
